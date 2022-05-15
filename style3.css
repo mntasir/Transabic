@@ -1,0 +1,15 @@
+table{
+	border: 2px dashed blue;
+	background-color: #3587A9;
+	
+	width: 800px;
+	box-sizing: border-box;
+	position: relative;
+	top: 20px;
+}
+td{
+	background-color: #A6C8E2;
+}
+body{
+	background-color: #BDBAD3;
+}

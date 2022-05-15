@@ -1,0 +1,30 @@
+body{
+	background-color: skyblue;
+}
+table{
+	border: 2px dotted blue;
+	border-radius: 20px;
+	font-size: 30px;
+	font-family: san-serif;
+	position: relative;
+	top: 100px;
+	padding: 7px;
+	box-sizing: border-box;
+}
+th{
+	text-align: center;
+	border-bottom: 2px dashed blue;
+	border-radius: 70%;
+}
+input{
+	width: 200px;
+	height: 20px;
+}
+h1{
+	position: relative;
+	top: 140px;
+}
+.login{
+	
+	top: 140px;
+}
